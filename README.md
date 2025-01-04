@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 🤔 I’m looking for help with: [GAME DEVELOPMENT, BLENDER, THREE.JS]
 - 💬 Ask me about: [MERN STACK, PROGRAMMING LANGUAGES, AI/ML, DEPLOYMENT]
 - 📫 How to reach me: [https://www.linkedin.com/in/harsh-kale-0006ba245/]
-- ⚡ Fun fact: [Insert a fun fact about yourself]
+- ⚡ Fun fact: [I can solve a Rubik's Cube in under 2 minutes!]
 
 ## 🛠️ Languages and Tools
 - Programming Languages: [SCRATCH, C++, C#, PYTHON, JAVA, PHP, ASSEMBLY LANGUAGE]
