@@ -4,23 +4,26 @@
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here's a little bit about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning: [Insert technologies or topics you're currently learning]
-- 💼 I’m currently working on: [Insert current projects or work]
-- 🤔 I’m looking for help with: [Insert areas where you need help]
-- 💬 Ask me about: [Insert topics you are knowledgeable about]
-- 📫 How to reach me: [Insert contact information, e.g., email or LinkedIn]
+- 🌱 I’m currently learning: [THREE.JS, BABYLON.JS, ML5.JS, P5.JS, BLENDER, MUGBIT]
+- 💼 I’m currently working on: [COLLEGE WEBSITE, CLIENT PROJECTS, LIBRARY DEVELOPMENT]
+- 🤔 I’m looking for help with: [GAME DEVELOPMENT, BLENDER, THREE.JS]
+- 💬 Ask me about: [MERN STACK, PROGRAMMING LANGUAGES, AI/ML, DEPLOYMENT]
+- 📫 How to reach me: [https://www.linkedin.com/in/harsh-kale-0006ba245/]
 - ⚡ Fun fact: [Insert a fun fact about yourself]
 
 ## 🛠️ Languages and Tools
-- Programming Languages: [Insert languages you know]
-- Frameworks/Libraries: [Insert frameworks or libraries you use]
-- Tools: [Insert tools you use, e.g., Git, Docker, etc.]
+- Programming Languages: [SCRATCH, C++, C#, PYTHON, JAVA, PHP, ASSEMBLY LANGUAGE]
+- Frameworks/Libraries: [JQUERY, REACT, ANGULAR, EXPRESS, DJANGO, FLASK, LODASH]
+- Tools: [Git, Docker, Selenium, GitHub Actions]
 
 ## 📈 GitHub Stats
 ![Harshk133's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshk133&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshk133&layout=compact&theme=radical)
+
+## 🏅 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harshk133&theme=radical)
 
 ## 🔗 Connect with Me
 - [Youtube](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA)
