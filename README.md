@@ -1,5 +1,7 @@
-#  Hello, World!!! I'm A Programmer | YouTuber | Chess Player!!
-## Hi there, I'm Harshk133! 👋
+
+# Hi there, I'm Harsh! 👋 
+## Hello, World!
+## I'm Programmer | YouTuber | Chess Player!!!
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here's a little bit about me:
 
