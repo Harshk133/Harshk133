@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 🚀 About Me
 - 🌱 I’m currently learning: THREE.JS, BABYLON.JS, ML5.JS, P5.JS, BLENDER, MUGBIT
-- 💼 I’m currently working on: COLLEGE WEBSITE, CLIENT PROJECTS, LIBRARY DEVELOPMENT
+- 💼 I’m currently working on: COLLEGE WEBSITE, CLIENT PROJECTS, LIBRARY DEVELOPMENT, SIDE PROJECTS
 - 🤔 I’m looking for help with: GAME DEVELOPMENT, BLENDER, THREE.JS
 - 💬 Ask me about: MERN STACK, PROGRAMMING LANGUAGES, AI/ML, DEPLOYMENT, SCRIPTING
 - 📫 How to reach me: harshtheprogrammer@outlook.com
