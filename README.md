@@ -1,6 +1,5 @@
 
-# Hi there, I'm Harsh! 👋 
-## Hello, World!
+# Hello, World!, I'm Harsh! 👋 
 ## I'm Programmer | YouTuber | Chess Player
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here's a little bit about me:
@@ -10,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 💼 I’m currently working on: COLLEGE WEBSITE, CLIENT PROJECTS, LIBRARY DEVELOPMENT, SIDE PROJECTS
 - 🤔 I’m looking for help with: GAME DEVELOPMENT, BLENDER, THREE.JS
 - 💬 Ask me about: MERN STACK, PROGRAMMING LANGUAGES, AI/ML, DEPLOYMENT, SCRIPTING
-- 📫 How to reach me: harshtheprogrammer@outlook.com
+- 📫 How to reach me: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/helloworld_programmer/), [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA),  harshtheprogrammer@outlook.com
 - ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes! 🔥
 
 - ## 🛠️ Languages and Tools
