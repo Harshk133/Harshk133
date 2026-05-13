@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 📫 How to reach me: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/helloworld_programmer/), [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA),  harshtheprogrammer@outlook.com
 - ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes! 🔥
 
-- ## 🛠️ Languages and Tools
-
+## 🛠️ Languages and Tools
 ### Programming Languages
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -48,6 +47,5 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/helloworld_programmer/)
 
----
-
+![Banner](./github-user-contribution.svg)
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
