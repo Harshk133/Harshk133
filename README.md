@@ -1,7 +1,6 @@
 
 # Hello, World!, I am Harsh! 👋 
 ## I'm Programmer | YouTuber | Chess Player
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here's a little bit about me:
 
@@ -49,4 +48,5 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/helloworld_programmer/)
 
 ![Banner](./github-user-contribution.svg)
+[![Harsh Kale profile views](https://u8views.com/api/v1/github/profiles/93035314/views/total-count.svg)](https://u8views.com/github/Harshk133)
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
