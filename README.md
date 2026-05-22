@@ -1,6 +1,7 @@
 
 # Hello, World!, I am Harsh! 👋 
 ## I'm Programmer | YouTuber | Chess Player
+[![Harsh Kale profile views](https://u8views.com/api/v1/github/profiles/93035314/views/day-week-month-total-count.svg)](https://u8views.com/github/Harshk133)
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here's a little bit about me:
 
