@@ -48,5 +48,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/helloworld_programmer/)
 
 ![Banner](./github-user-contribution.svg)
+
 [![Harsh Kale profile views](https://u8views.com/api/v1/github/profiles/93035314/views/total-count.svg)](https://u8views.com/github/Harshk133)
+
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
