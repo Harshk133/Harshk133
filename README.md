@@ -1,3 +1,4 @@
+<img width="837" height="142" alt="heatmap-logo" src="https://github.com/user-attachments/assets/2d237519-2176-450a-8462-04a1d946d337" />
 
 # Hello, World!, I am Harsh! 👋 
 ## I'm Programmer | YouTuber | Chess Player
