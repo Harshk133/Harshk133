@@ -41,8 +41,9 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🏅 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harshk133&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshk133&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+</p>
 
 ## 🔗 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA)
