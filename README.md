@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 </p>
 
 ## 🔗 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA](https://www.linkedin.com/in/harsh-kale-0006ba245/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kale-0006ba245/)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA)
 
 ![Banner](./github-user-contribution.svg)
