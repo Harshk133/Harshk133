@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 💼 I’m currently working on: COLLEGE WEBSITE, CLIENT PROJECTS, LIBRARY DEVELOPMENT, SIDE PROJECTS
 - 🤔 I’m looking for help with: GAME DEVELOPMENT, BLENDER, THREE.JS
 - 💬 Ask me about: MERN STACK, PROGRAMMING LANGUAGES, AI/ML, DEPLOYMENT, SCRIPTING
-- 📫 How to reach me: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/helloworld_programmer/), [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA),  harshtheprogrammer@outlook.com
+- 📫 How to reach me: [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA), [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kale-0006ba245/),  harshtheprogrammer@outlook.com
 - ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes! 🔥
 
 ## 🛠️ Languages and Tools
@@ -50,8 +50,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 </p>
 
 ## 🔗 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/helloworld_programmer/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA](https://www.linkedin.com/in/harsh-kale-0006ba245/)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYsu6hQkKQC2mTSxWQekPZA)
 
 ![Banner](./github-user-contribution.svg)
 
